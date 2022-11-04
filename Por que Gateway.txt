@@ -1,0 +1,3 @@
+El gateway es muy util ya que evita conocer los puertos de cada microservicio
+todas las peticiones son redirigidas al gateway y el se encarga de reenviarlas
+al correspondiente puerto. El funcionamiento es similar al de un router/modem hogareño
